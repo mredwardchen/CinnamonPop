@@ -9,6 +9,6 @@ package com.cinnamonpop.manage;
 public class SayHello {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Git, Here's good nite!");
+		System.out.println("Hello Kitty, Here's good nite!");
 	}
 }
